@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE codelean [
+        <!ELEMENT Music_Library ( to, from, subject, message)>
+        <!ELEMENT to (#PCDATA)>
+        <!ELEMENT from (#PCDATA)>
+        <!ELEMENT subject (#PCDATA)>
+        <!ELEMENT message (#PCDATA)>
+        ]>
+<codelean>
+    <to>my readers</to>
+    <from>ThiDK</from>
+    <subject>A message tomy readers</subject>
+    <message>Welcome to codelean.vn</message>
+</codelean>
