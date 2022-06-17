@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="CodeLean.css"?>
+<codelean >
+    <title>Hello Everyone! Welcome to CodeLean.vn</title>
+    <codelean_section>
+        <name>Dang</name>
+        <topic1>Greedy Algo</topic1>
+        <topic1>Randomised Algo</topic1>
+        <topic1>Searching Algo</topic1>
+        <topic1>Sorting Algo</topic1>
+    </codelean_section>
+    <codelean_section>
+        <name>Data Structures</name>
+        <topic1> Array</topic1>
+        <topic1>Stack</topic1>
+        <topic1>Queue</topic1>
+        <topic1>Linked List</topic1>
+    </codelean_section>
+    <codelean_section>
+        <name>Web Technology</name>
+        <topic1>HTML</topic1>
+        <topic1>CSS</topic1>
+        <topic1>Java Scrip</topic1>
+        <topic1>Php</topic1>
+    </codelean_section>
+    <codelean_section>
+        <name>Languages</name>
+        <topic1>C/C++</topic1>
+        <topic1>Java</topic1>
+        <topic1>Python</topic1>
+        <topic1>Ruby</topic1>
+    </codelean_section>
+    <codelean_section>
+        <name>DBMS</name>
+        <topic1>Basic</topic1>
+        <topic1>ER Diagram</topic1>
+        <topic1>Normalization</topic1>
+        <topic1>Transaction Concepts</topic1>
+    </codelean_section>
+</codelean>
